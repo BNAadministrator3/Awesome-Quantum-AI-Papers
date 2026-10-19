@@ -20,3 +20,5 @@ This project aims to maintain a curated list of research papers related to the f
 | 2013 | arXiv | [Entanglement and Quantum Error Correction with Superconducting Qubits (Reed, Matthew. 2013)](https://arxiv.org/abs/1311.6759)  |
 | 2024 | IEEE Transactions on Consumer Electronics | [Quantum Error Correction Codes in Consumer Technology: Modelling and Analysis (V. S. Thakur, A. Kumar, J. Das, K. Dev and M. Magarini. 2024)](https://ieeexplore.ieee.org/abstract/document/10643222) |
 | 2023 |  DAC | [Hybrid Gate-Pulse Model for Variational Quantum Algorithms (Zhiding L, Song H, et al. 2023) ](https://arxiv.org/pdf/2212.00661) |
+| 2002 | Journal of Mathematical Physics | [Topological quantum memory (Dennis, E., Kitaev, A., Landahl, A., and Preskill, J. 2002)](https://doi.org/10.1063/1.1499754) |
+| 2012 | Physical Review A | [Surface codes: Towards practical large-scale quantum computation (Fowler, A. G., Mariantoni, M., Martinis, J. M., and Cleland, A. N. 2012)](https://doi.org/10.1103/PhysRevA.86.032324) |
