@@ -5,6 +5,8 @@ This project aims to maintain a curated list of research papers related to the f
 
 | Year | Publication | Title |
 |:-----|:------------|:------|
+| 2026 | ICLR | [SAQ: Stabilizer-Aware Quantum Error Correction Decoder (Zenati, D. and E. Nachmani. 2026)](https://arxiv.org/abs/2512.08914) |
+| 2026 | ICML | [Rethink the Role of Neural Decoders in Quantum Error Correction (Yan, G., Li, S., and Du, Y. 2026)](https://proceedings.mlr.press/v306/yan26g.html) |
 | 2024 | Nature | [High-threshold and low-overhead fault-tolerant quantum memory (Bravyi, Sergey, et al. 2024)](https://www.nature.com/articles/s41586-024-07107-7) |
 | 2024 | Nature | [Quantum error correction below the surface code threshold (Google Quantum AI and Collaborators. 2024)](https://www.nature.com/articles/s41586-024-08449-y) |
 | 2024 | Nature | [Learning high-accuracy error decoding for quantum processors (Bausch, J., et al. 2024)](https://doi.org/10.1038/s41586-024-08148-8) |
