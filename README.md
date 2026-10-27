@@ -57,7 +57,9 @@ Papers on dedicated QEC decoder chips, FPGA/ASIC architectures, hardware acceler
 | 2025 | ISCAS | [FPGA Accelerated Adaptive LDPC-based Quantum Error Correction by Bitwise Pipeline Parallelism](https://doi.org/10.1109/ISCAS56072.2025.11044052) |
 | 2022 | IEEE Transactions on Quantum Engineering | [Neural-Network Decoders for Quantum Error Correction Using Surface Codes: A Space Exploration of the Hardware Cost-Performance Tradeoffs](https://doi.org/10.1109/TQE.2022.3174017) |
 | 2022 | ISSCC | [A Cryo-CMOS Low-Power Semi-Autonomous Qubit State Controller in 14nm FinFET Technology](https://doi.org/10.1109/ISSCC42614.2022.9731538) |
+| 2022 | ASPLOS | [LILLIPUT: A Lightweight Low-Latency Lookup-Table Decoder for Near-Term Quantum Error Correction (Das, P., Locharla, A., and Jones, C., 2022)](https://doi.org/10.1145/3503222.3507707) |
 | 2021 | DAC | [QECOOL: On-Line Quantum Error Correction with a Superconducting Decoder for Surface Code](https://doi.org/10.1109/DAC18074.2021.9586326) |
+
 
 ---
 
